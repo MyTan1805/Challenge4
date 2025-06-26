@@ -35,5 +35,8 @@ public class MainActivity extends AppCompatActivity {
         sportsList.add(new Sport("VolleyBall", R.drawable.volleyball));
         sportsList.add(new Sport("Tennis", R.drawable.tennis));
         sportsList.add(new Sport("Football", R.drawable.football));
+        sportsList.add(new Sport("Badminton", R.drawable.badminton));
+        sportsList.add(new Sport("Baseball", R.drawable.baseball));
+        sportsList.add(new Sport("Golf", R.drawable.golf));
     }
 }
